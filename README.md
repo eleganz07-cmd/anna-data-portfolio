@@ -6,5 +6,5 @@
 ![Weekly Received vs Closed](docs/tableau_weekly_received_vs_closed_v1.png)
 
 ### Backlog Aging Buckets (Open)
-![Backlog Aging Buckets](docs/tableau_backlog_aging_open_v1.png)
+![Backlog Aging Buckets](docs/tableau_backlog_aging_buckets_open_v1.png)
 
