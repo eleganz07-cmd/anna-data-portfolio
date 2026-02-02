@@ -1,4 +1,17 @@
-# anna-data-portfolio  
+# Anna Jackson — Data Analytics Portfolio
+
+Business + Data Analyst | Claims Ops | Healthcare + Utility Claims Analytics  
+Tools: SQL (SQL Server/MySQL/BigQuery), Tableau, Power BI (web)
+
+## Featured Projects
+
+### 1) Claims Operations Dashboard (Tableau)
+Tracks weekly volume (received vs closed) and backlog aging buckets for claims operations.
+- Dashboard visuals (V1 screenshots)
+- Metrics: volume/week, backlog aging, cycle time (3–5 days typical; up to 30 days)
+
+📁 Project folder: Project_01_ClaimsOps_Tableau
+  
 
 ## Screenshots (V1)
 
