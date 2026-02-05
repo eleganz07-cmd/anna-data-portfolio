@@ -61,4 +61,4 @@ Expected columns:
 - Add month-over-month trends + rolling averages
 - Add QA checks for null dates, invalid statuses, and missing domains
 
-https://lookerstudio.google.com/reporting/9f9621cb-60f6-4d04-b522-2d544edf3b9f
+(https://lookerstudio.google.com/embed/reporting/9f9621cb-60f6-4d04-b522-2d544edf3b9f/page/BAcnF)
